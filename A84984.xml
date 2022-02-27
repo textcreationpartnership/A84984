@@ -1,0 +1,370 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full narration of the late riotous tumult within the City of London, and proceedings of the Lord Mayor, Committee of Militia, and the Common-Councell of the said city concerning the same. Presented to the House of Peeres upon Thursday the 13. of April, 1648. With their Lordships answer thereunto. Die Jovis 13. April. 1648. Ordered by the Lords assembled in Parliament, that this narration be forthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84984</idno>
+            <idno type="STC">Wing F2349</idno>
+            <idno type="STC">Thomason E435_24</idno>
+            <idno type="STC">ESTC R202170</idno>
+            <idno type="EEBO-CITATION">99862563</idno>
+            <idno type="PROQUEST">99862563</idno>
+            <idno type="VID">114726</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114726)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E435[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full narration of the late riotous tumult within the City of London, and proceedings of the Lord Mayor, Committee of Militia, and the Common-Councell of the said city concerning the same. Presented to the House of Peeres upon Thursday the 13. of April, 1648. With their Lordships answer thereunto. Die Jovis 13. April. 1648. Ordered by the Lords assembled in Parliament, that this narration be forthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>for John Wright at the Kings Head in the old Bayley,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title, A2: Commune Concilium tent. in Camera Guildhall Civitatis London undecimo die Aprilis 1648.</note>
+                  <note>Imperfect: staining with some loss of text.</note>
+                  <note>Annotation on Thomason copy: the 8 in imprint date is crossed out and replaced with a "7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>City of London (England). --  Committee for the Militia --  Early works to 1800.</term>
+               <term>Riots --  England --  London --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114726:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <p>A full NARRATION Of the late Riotous Tumult Within the City of London. AND Proceedings of the Lord Mayor, Committee of Militia, and the Com<g ref="char:EOLhyphen"/>mon-Councell of the ſaid City concer<g ref="char:EOLhyphen"/>ning the ſame.</p>
+            <p>Preſented to the Houſe of PEERES upon Thurſday the 13. of April, 1648.</p>
+            <p>With their <hi>LORDSHIPS ANSWER</hi> thereunto.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Jovis 13. April. 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords Aſſembled in Parliament, That this Narration be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>Joh. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Imprinted at London for <hi>John Wright</hi> at the Kings Head in the old Bayley. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:114726:2"/>
+            <!-- PDF PAGE 9 -->
+            <pb n="1" facs="tcp:114726:2"/>
+            <!-- PDF PAGE 9 -->
+            <opener>
+               <dateline>Commune Concilium tent. in Camera Guild<g ref="char:EOLhyphen"/>hall Civitatis London <date>undecimo die A<g ref="char:EOLhyphen"/>prilis 1648. Annoque Regni Domini noſtri Caroli nunc Regis Angliae, &amp;c. viceſi<g ref="char:EOLhyphen"/>mo quarto</date> Coram Johanne Warner Ma<g ref="char:EOLhyphen"/>jore Civit. London, &amp;c.</dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>T this Common-Councell Maſter Alderman <hi>Fowke</hi> and Maſter Al<g ref="char:EOLhyphen"/>derman <hi>Gibbs,</hi> by the direction of the Committee of the Militia of <hi>London,</hi> did make a large relation of the great tumult, inſurrection, and mutiny, which happened in this City on the laſt Lords day and munday laſt, by many evill diſpoſed perſons, which firſt began on the Lords day in the afternoone in the County of <hi>Middleſex,</hi> where they ſeized the Colours of one of the trayned Bands of the ſaid county, who were there imployed for the ſuppreſſing of ſuch perſons as did prophane the Lords day, and being diſperſed by ſome of the Generals Forces, did ga<g ref="char:EOLhyphen"/>ther
+<pb n="2" facs="tcp:114726:3"/>
+               <!-- PDF PAGE 10 -->together within the city of <hi>London</hi> and Liber<g ref="char:EOLhyphen"/>ties thereof, and in a r<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otous manner did breake open divers houſes and magazines of Armes and Ammunition, and tooke away Armes, Plate, mo<g ref="char:EOLhyphen"/>ney, and other things; and did ſeize upon the drums of the trayned bands of this city, which were beating to raiſe their compani<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and armed themſelves, and beat up drums, and put themſelves in a warlike poſture, and ſeized upon the gates, chaines, and watches of this city; and then mar<g ref="char:EOLhyphen"/>ched to the Lord Mayors houſe, and there aſſaul<g ref="char:EOLhyphen"/>ted the Lord Mayor, Sheriffs, committee of the militia of <hi>London,</hi> and other magiſtrates of the ſame; and did ſhoot into the Lord Mayors houſe, beat back his Guards, killed one of them, woun<g ref="char:EOLhyphen"/>ded divers others, and ſeized and tooke away a peece of Ordnance from thence, with which they did afterwards ſlay and wound divers perſons, and committed many other outrages. All which mat<g ref="char:EOLhyphen"/>ters being largely debated, and many particulars inſiſted upon, both for the diſcovery and puniſh<g ref="char:EOLhyphen"/>ment of the ſaid miſdemeanours and outrages, and alſo for the preventing of the like for time to come, it was at the laſt concluded and agreed by this common-councell as followeth: Firſt, This common-councell do generally conceive, that this city was in great danger by reaſon of the ſaid out<g ref="char:EOLhyphen"/>rages and miſdemeanours; and that if the ſame had not ſo timely been prevented and ſtayed, the whole city would have been expoſed to the fury and rage of the ſaid malefactours: And this com<g ref="char:EOLhyphen"/>mon-councell doth declare, That the ſame miſ<g ref="char:EOLhyphen"/>demeanour
+<pb n="4" facs="tcp:114726:3"/>
+               <!-- PDF PAGE 10 -->and outrage was a horrid and deteſtable act, tending to the deſtruction of the city; And that they do diſavow the ſame, and with an utter deteſtation do declare their d<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſlike thereof; And this common-councell do appoint the committee of the militia of <hi>London</hi> to make the ſame knowne to the Honourable Houſes of Parliament; and alſo to make an humble requeſt unto them, That an Order may be iſſued forth from them to the ſe<g ref="char:EOLhyphen"/>verall miniſters of this city and the places adjacent that they may be directed to give publique thanks' to Almighty God, the Author of this great and wonderfull deliverance, from that eminent danger wherein this city and parts adjacant were involved. And further the ſaid committee are appointed by this court to apply themſelves to the Honourable Houſes of Parliament, for the obtaining of a ſpe<g ref="char:EOLhyphen"/>ciall commiſſion of Oyer and Terminer, for the trying and puniſhing of all the malefactors that had a hand in this deteſtable action, according to the knowne Lawes of this Land; and this court with thankfull hearts doe acknowledge the inſtruments under God, by which they obtained this delive<g ref="char:EOLhyphen"/>rance, to be by the forces raiſed and continued by the Parliament, under the command of his Excel<g ref="char:EOLhyphen"/>lency the Lord Generall <hi>Fairfax,</hi> and to manifeſt the ſame:</p>
+            <p>This Common-Councell doe alſo order, that the ſaid Committee of the Militia, in the name of this City, as a thing agreed upon by a unanimous con<g ref="char:EOLhyphen"/>ſent, ſhall returne their hearty Thankes to his Ex<g ref="char:EOLhyphen"/>cellency for his ſpeedy and ſeaſonable Ayde affor<g ref="char:EOLhyphen"/>ded
+<pb n="4" facs="tcp:114726:4"/>
+               <!-- PDF PAGE 11 -->unto the City in this their great ſtraight and danger; And this court with a generall conſent do well approve of the endeavours of the ſaid com<g ref="char:EOLhyphen"/>mittee of the Militia for <hi>London</hi> for the raiſing of the forces of this city, and in their procuring of the ſaid aide and helpe from his Excellency in this extremity, and what elſe they have done for the appeaſing and ſuppreſſing of the ſaid tumults; And this court doth give thankes to the ſaid com<g ref="char:EOLhyphen"/>mittee of the Militia for their care, and paines by by them taken upon this ſad occaſion; And they doe appoint Maſter Alderman <hi>Fowke</hi> to declare the ſame their thankes to ſuch of the ſaid committee as are not of this court; And this court doth alſo with all thankfulneſſe acknowledge the paines and care of the Right Honourable the Lord Mayor, and the Right Worſhipfull the Sheriffes of this city therein. And this court doe generally declare, That it is the duty of every citizen of this city by himſelfe, and all that doe belong unto him, or is under his command, to be ready upon all occaſi<g ref="char:EOLhyphen"/>ons to be ayding and aſſiſting unto the Lord Mayor and the reſt of the Magiſtrates of this city, for the ſuppreſſing of all tumults and diſorders within the ſame; and the ſeverall perſons now preſent at this common-councell (by the holding up of their hands) have promiſed, that for the time to come they will uſe their utmoſt endeavours, and be rea<g ref="char:EOLhyphen"/>dy upon all occaſions to doe the ſame.</p>
+            <closer>
+               <signed>Michell</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="5" facs="tcp:114726:4"/>
+            <!-- PDF PAGE 11 -->
+            <opener>
+               <dateline>At the Committee of the Militia of <hi>London,</hi> 
+                  <date>the tenth of <hi>April,</hi> 1648.</date>
+               </dateline>
+            </opener>
+            <p>ORdered, That my Lord Mayor be hereby deſired to call a common-councell to mor<g ref="char:EOLhyphen"/>row morning at ten of the clocke, and that laſt nights tumult be reported to the court by Alder<g ref="char:EOLhyphen"/>man <hi>Fowke,</hi> and Alderman <hi>Gibbs,</hi> and what this committee then did for the ſafety of this city, and what application they were forced to make to the Generall for his aſſiſtance.</p>
+            <closer>
+               <signed>
+                  <hi>Adam Banokes</hi> Clerke to the ſaid Committee.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <p>WHereas by vertue of an Ordinance of Parliament, dated the ſecond of <hi>Septem<g ref="char:EOLhyphen"/>ber,</hi> 1647. It was ordained and decla<g ref="char:EOLhyphen"/>red, That we the perſons intruſted with the orde<g ref="char:EOLhyphen"/>ring of the Militia within the city of <hi>London</hi> and the liberties thereof, ſhould have full power and authority to cauſe all and ſingular his Majeſties Subjects inhabiting within the ſaid city and liber<g ref="char:EOLhyphen"/>ties, that are meet and fit for the warres from time to time to be aſſembled and called together, and to be liſted, well and ſufficiently arrayed, weapo<g ref="char:EOLhyphen"/>ned, trained and exerciſed, and put in readineſſe
+<pb n="6" facs="tcp:114726:5"/>
+               <!-- PDF PAGE 12 -->in places moſt fit for that purpoſe; and for the bet<g ref="char:EOLhyphen"/>ter execution of the ſaid Ordinance to make Colo<g ref="char:EOLhyphen"/>nells, captaines, and other officers, and to lead, conduct, and imploy the ſaid forces arrayed, and weaponed for the ſafe guarding of the ſaid city and liberties, and for the ſuppreſſion of all rebellions, inſurrections, and invaſions that may happen with<g ref="char:EOLhyphen"/>in the ſame; and to give battell, and fight with them and their adherents, and all others that ſhall approach with any ſuch force towards or againſt the Parliament, or the city of <hi>London</hi> and liberties thereof, or cauſe any inſurrection within the ſame, and them to invade, reſiſt, repreſſe, ſubdue, purſue, kill and ſlay, and by all meanes to deſtroy as ene<g ref="char:EOLhyphen"/>mies of the kingdome. We do therefore pray and require you, to obſerve all particulars above menti<g ref="char:EOLhyphen"/>oned unto you belonging, and to proceed therein according to the duty of your place.</p>
+            <closer>
+               <dateline>Dated at <hi>Guild Hall, London</hi> 
+                  <date>the 30. of <hi>October,</hi> 1647.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Jo. Warner,</hi> Mayor.</item>
+                     <item>Owen Rowe</item>
+                     <item>Thomas Noel</item>
+                     <item>Marke Hildſley</item>
+                     <item>Stephen Eſtwick</item>
+                     <item>Jo. Wollaſtou</item>
+                     <item>Tho. Andrewes</item>
+                     <item>Will. Berkeley</item>
+                     <item>Tho. Player</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="7" facs="tcp:114726:5"/>
+            <!-- PDF PAGE 12 -->
+            <opener>
+               <salute>Colonell <hi>Vnderwood,</hi>
+               </salute>
+            </opener>
+            <p>YOu are hereby required to raiſe your Regiment, and to draw them to the place of Rendezvouz, Com<g ref="char:EOLhyphen"/>pleatly Armed, and furniſhed with Pow<g ref="char:EOLhyphen"/>der, Match, and Bullet, and to ſup<g ref="char:EOLhyphen"/>preſſe all Tumults and Inſurrections that may be to the prejudice of the peace of the <hi>City,</hi> by ſending out par<g ref="char:EOLhyphen"/>ties and Companies, or otherwiſe as you ſhall ſee cauſe, and for ſo doing this ſhall be your Warrant.</p>
+            <closer>
+               <dateline>Dated at the Lord <hi>Mayors</hi> place <date>the ninth of <hi>April.</hi> 1648.</date>
+               </dateline>
+               <signed>The Warrant above was iſſued to
+<list>
+                     <item>Col. <hi>
+                           <g ref="char:V">Ʋ</g>nderwood,</hi>
+                     </item>
+                     <item>Colonell <hi>Rowe,</hi>
+                     </item>
+                     <item>Col. <hi>Hayes,</hi>
+                     </item>
+                     <item>Liev. Co<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </item>
+                     <item>Col. <hi>Harr<gap reason="illegible" extent="4 letters">
+                              <desc>••••</desc>
+                           </gap>,</hi>
+                     </item>
+                  </list>
+                  <hi>Adam Bankes</hi> Clerke to the Committee of the <hi>Militia London.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="8" facs="tcp:114726:6"/>
+            <!-- PDF PAGE 13 -->
+            <p>WHereas Tumults doe much increaſe in the <hi>City,</hi> and the Drums of the Trained Bands are taken from them, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s thought fit and ſo Ordered by the committe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Militia Lon<g ref="char:EOLhyphen"/>don,</hi> that the chaines of the ſeverall Wards be forthwith <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> down, and the Deputies and Com<g ref="char:EOLhyphen"/>mon-coun<gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>men and Conſtables are required to take notice hereof accordingly.</p>
+            <closer>
+               <dateline>Dated <date>the ninth of <hi>April.</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="document">
+            <head>To the Alderman of the Ward of <hi>Farringdon</hi> within.</head>
+            <opener>
+               <signed>By the Mayor.</signed>
+            </opener>
+            <p>THeſe are to will and require you in pur<g ref="char:EOLhyphen"/>ſuance of an Order of the Committee of the <hi>Militia</hi> for <hi>London</hi> that for the ſafety of this <hi>City</hi> you take care and ſee that the bookes and ſtapels which faſten the chaines to the Poſts within your Ward be forthwith this night pulled <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and that they and the chaines be by you ta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſpoſed of in ſome ſafe and ſecure place, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Deputy and common-counſell ſhall th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>venient, untill further Order be given in <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ſe, and hereof faile you not as you w<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>wer the contrary at your perill.</p>
+            <closer>
+               <dateline>
+                  <date>Da<g ref="char:EOLhyphen"/>ted th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> t<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>th of <hi>A<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ril.</hi> 1648.</date>
+               </dateline>
+               <signed>Michell</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="9" facs="tcp:114726:6"/>
+            <!-- PDF PAGE 13 -->
+            <head>Their Lordſhips Anſwer.</head>
+            <p>THe Lor<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> knowl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dge the great and happy providence of Almigh<g ref="char:EOLhyphen"/>ty God in the preventing of ſo horred an outrage which might have endanger<g ref="char:EOLhyphen"/>ed the lives of the chiefe Magiſtrates and alſo hazarded the ſpoyl of the whole <hi>Ci<g ref="char:EOLhyphen"/>ty</hi> of <hi>London,</hi> in Order to making their acknowledgements to God more pub<g ref="char:EOLhyphen"/>lique, and in anſwer to the deſires of the Lord <hi>Mayor,</hi> Aldermen and Common-Counſell, they will appoint the Mini<g ref="char:EOLhyphen"/>ſters of the ſeverall Pariſhes within the late lines of Communication to give thanks unto God the next Lords day ſot this preſervation and deliverance. They are well ſatisfied with the generall d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<g ref="char:EOLhyphen"/>like and deteſtation of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> outrage expreſſed by you <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the ſenſe of the Lord <hi>Mayor</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rmen, and Common-counſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and will ſpeedily Order that a
+<pb n="10" facs="tcp:114726:7"/>
+               <!-- PDF PAGE 14 -->Commiſſion of Oyre and Terminer, ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll iſſue forth for the tryall of theſe Ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>factors. They fully ap<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ve of the ca<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, endeavours, and Orde<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Lord <hi>Mayor</hi> and <hi>Militia</hi> of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and of the Orders lately made by the Lord <hi>Mayor,</hi> Aldermen, and Com<g ref="char:EOLhyphen"/>mon-Counſell concerning the ſame, a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d returne their thanks unto the Lord <hi>Ma<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>or,</hi> Aldermen and Common-Counſell, and the <hi>Militia</hi> of the City of <hi>London,</hi> and they do earneſtly deſire them to continue ſtill to uſe their diligence and utmoſt endeavours for the preventing tumults and outrages for the future, and to be carefull for the preſervation of the ſafety and quiet of the City of <hi>London,</hi> wherein this Houſe will alwaies be rea<g ref="char:EOLhyphen"/>dy to give them their beſt aſſiſtance and encou<gap reason="illegible" extent="8+ letters">
+                  <desc>〈8… letters〉</desc>
+               </gap>.</p>
+            <closer>
+               <signed>Ioh. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Cl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. Parliamentorum:</signed>
+            </closer>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
